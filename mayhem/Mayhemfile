@@ -1,4 +1,4 @@
-project: Chinese-Vicuna
+project: chinese-vicuna
 target: fuzzme
 
 cmds:
