@@ -1,0 +1,5 @@
+project: Chinese-Vicuna
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
